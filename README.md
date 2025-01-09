@@ -1,7 +1,11 @@
-Created an interactive Python program simulating a stock market with real-time price changes and portfolio management.
-Designed a user-friendly interface using the Tabulate library for clear data representation.
-Implemented reusable functions to ensure a clean, modular, and maintainable code structure.
-Tools: Python.
+Share Market Simulation -
+
+Developed an interactive Python-based share market simulation application to enable users to buy, sell, and manage virtual stocks.
+Implemented real-time stock price updates with ±5% daily fluctuations.
+Displayed stock prices and portfolio details using PrettyTable for enhanced visualization.
+Designed a menu-driven interface for seamless user interactions, including viewing portfolio, trading shares, and updating prices dynamically.
+Leveraged Object-Oriented Programming (OOP) for modular and reusable functionality.
+Demonstrated proficiency in Python programming, data visualization, and financial market simulation.
 
 
 
